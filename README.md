@@ -238,3 +238,6 @@ This repository serves as the official landing page for K9 Web Protection. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of K9 Web Protection today!**
+
+---
+**Last updated:** 2026-09-12 11:57:21 UTC
