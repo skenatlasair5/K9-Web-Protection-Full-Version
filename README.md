@@ -240,4 +240,4 @@ This repository serves as the official landing page for K9 Web Protection. The s
 **Get the most recent version of K9 Web Protection today!**
 
 ---
-**Last updated:** 2026-11-07 11:28:26 UTC
+**Last updated:** 2026-11-07 17:22:47 UTC
